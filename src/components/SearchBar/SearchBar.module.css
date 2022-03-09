@@ -1,0 +1,19 @@
+.search-bar {
+    margin-top: 2rem;
+    width: 90%;
+    position: relative;
+    display: flex;
+    padding: 1rem;
+    box-shadow: 0 0 1rem rgba(0, 0 , 0, 0.15);
+}
+
+.search-bar input {
+    background-color: rgb(238, 238, 238);
+    width: 100%;
+    border-radius: 0.5rem;
+    padding: 0.5rem 0.5rem;
+    letter-spacing: 0.1rem;
+    font-style: italic;
+    font-weight: bold;
+    border: none;
+}

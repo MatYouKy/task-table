@@ -1,0 +1,8 @@
+.content-table {
+    display: table;
+    border-collapse: separate;
+    width: 90%;
+    overflow: hidden;
+    box-shadow: 0 0 1rem rgba(0, 0 , 0, 0.15);
+}
+

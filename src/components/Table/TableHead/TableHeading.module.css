@@ -1,0 +1,11 @@
+.heading {
+    background-color: rgb(197, 197, 197);
+    text-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+.heading th {
+    padding: 1rem;
+}
