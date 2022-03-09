@@ -19,7 +19,7 @@ MVP has been completed
 ![search-funcion](https://user-images.githubusercontent.com/76663651/157537447-a2304483-3e67-433c-abf2-6255cba910a3.png)
 
 ### First
-You need to replace the url in APP.tsx with your endpoint.
+You need to replace the url in App.tsx with your endpoint.
 
 ### Next
 In the project directory, you can run:
