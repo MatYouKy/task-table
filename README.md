@@ -12,7 +12,8 @@ MVP has been completed
 ![main-view](https://user-images.githubusercontent.com/76663651/157537373-ab39e51d-24f2-4043-af40-79113b7ad940.png)
 
 #### Search Input
-![search-input](https://user-im![search-input](https://user-images.githubusercontent.com/76663651/157538315-19106a5f-0a2f-4c13-9a5e-88ca768fa26c.png)
+![search-input](https://user-images.githubusercontent.com/76663651/157538418-65769e47-fc0d-4107-a21c-88807b6f9eae.png)
+
 
 #### Search Action
 ![search-funcion](https://user-images.githubusercontent.com/76663651/157537447-a2304483-3e67-433c-abf2-6255cba910a3.png)
